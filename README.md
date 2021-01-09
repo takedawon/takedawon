@@ -1,11 +1,10 @@
 ### 현재 보고 있는 책 (20.10.30 ~ ing)
-- 생활코딩 자바 프로그래밍 
 - Kotlin in Action
 - Head First Design Patterns
 
 ### 다 본책 목록
 - 팀 개발을 위한 GitHub
-- Clean Architecture
+- 생활코딩 자바 프로그래밍 
 <!--
 **takedawon/takedawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
