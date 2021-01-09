@@ -1,7 +1,7 @@
 ### 현재 보고 있는 책 (20.10.30 ~ ing)
 - Kotlin in Action
 - Head First Design Patterns
-- Do it! 코틀린 
+- Do it! 코틀린 프로그래밍
 
 ### 다 본책 목록
 - 팀 개발을 위한 GitHub
