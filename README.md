@@ -1,5 +1,8 @@
 ### 현재 보고 있는 책 (20.10.30 ~ ing)
 - Kotlin in Action
+- 객체지향 사실과 오해
+
+### 앞으로 읽을 책
 - Head First Design Patterns
 - Do it! 코틀린 프로그래밍
 - 코틀린/자바를 한눈에 안드로이드 
