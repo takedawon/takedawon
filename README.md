@@ -1,6 +1,4 @@
 ### 현재 진행 중인 개인 프로젝트
-- Closet
-
 # Closet
 - MVVM, Coroutine, Flow, Dagger-Hilt, Navigation, OkHttp, Retrofit, Timber
 - Jetpack(DataStore, Paging3, LiveData, ViewModel...)
