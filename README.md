@@ -1,14 +1,6 @@
-### 현재 보고 있는 책
-- Kotlin in Action
-- Head First Design Patterns
+### 현재 진행 중인 개인 프로젝트
+- Closet
 
-### 앞으로 읽을 책
-
-### 다 본책 목록
-- 팀 개발을 위한 GitHub
-- 생활코딩 자바 프로그래밍 
-- 객체지향 사실과 오해
-- 커리어 스킬
 <!--
 **takedawon/takedawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
