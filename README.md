@@ -2,7 +2,7 @@
 # Closet
 - MVVM, Coroutine, Flow, Dagger-Hilt, Navigation, OkHttp, Retrofit, Timber
 - Jetpack(DataStore, Paging3, LiveData, ViewModel...)
-- 추후 Compose 도입
+- 추후 Compose 도입 및 Clean Architecture + Multi Module 구성
 
 <!--
 **takedawon/takedawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
