@@ -1,6 +1,6 @@
 ### 현재 진행 중인 개인 프로젝트
 # Closet
-- MVVM, Coroutine, Flow, Dagger-Hilt, Navigation, OkHttp, Retrofit, Timber
+- Clean Architecture, MVVM, Coroutine, Flow, Dagger-Hilt, Navigation, OkHttp, Retrofit, Timber
 - Jetpack(DataStore, Paging3, LiveData, ViewModel...)
 - 추후 Compose 도입 및 Clean Architecture + Multi Module 구성
 
