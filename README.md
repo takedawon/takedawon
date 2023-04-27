@@ -1,8 +1,4 @@
-### 현재 진행 중인 개인 프로젝트
-# Closet
-- Clean Architecture, MVVM, Coroutine, Flow, Dagger-Hilt, Navigation, OkHttp, Retrofit, Timber
-- Jetpack(DataStore, Paging3, LiveData, ViewModel...), FlowBinding
-- 추후 Compose 도입
+### Hello 
 
 <!--
 **takedawon/takedawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
